@@ -1,0 +1,8 @@
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\HomeScreenForm\bin\Debug\HomeScreenForm.exe.config
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\HomeScreenForm\bin\Debug\HomeScreenForm.exe
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\HomeScreenForm\bin\Debug\HomeScreenForm.pdb
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\HomeScreenForm\obj\Debug\HomeScreenForm.csprojAssemblyReference.cache
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\HomeScreenForm\obj\Debug\HomeScreenForm.Properties.Resources.resources
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\HomeScreenForm\obj\Debug\HomeScreenForm.csproj.GenerateResource.cache
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\HomeScreenForm\obj\Debug\HomeScreenForm.exe
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\HomeScreenForm\obj\Debug\HomeScreenForm.pdb

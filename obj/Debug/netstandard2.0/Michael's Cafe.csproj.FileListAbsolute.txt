@@ -1,0 +1,5 @@
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\obj\Debug\netstandard2.0\Michael's Cafe.csprojAssemblyReference.cache
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\obj\Debug\netstandard2.0\Michael_s_Cafe.HomeScreenForm.Properties.Resources.resources
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\obj\Debug\netstandard2.0\Michael's Cafe.csproj.GenerateResource.cache
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\obj\Debug\netstandard2.0\Michael's Cafe.AssemblyInfoInputs.cache
+C:\Users\Jimmy\source\repos\Michael's Cafe\Michael's Cafe\obj\Debug\netstandard2.0\Michael's Cafe.AssemblyInfo.cs
